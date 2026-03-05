@@ -39,7 +39,7 @@ body {
 }
 /* Section 1 Styles */
 .s1 {
-  background-image: url('../assets/main_bg.png') !important;
+  background-image: url('../assets/main_bg.webp') !important;
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -253,7 +253,7 @@ body {
 
 /* Section 3 Styles */
 .s3 {
-  background: url('../assets/amenities_bg.png') no-repeat center center/cover;
+  background: url('../assets/amenities_bg.webp') no-repeat center center/cover;
   backdrop-filter: blur(8px);
   padding: 60px 20px 40px;
   color: white;
